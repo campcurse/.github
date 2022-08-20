@@ -1,5 +1,7 @@
 ## Hi there 👋
 
+<img src="https://github.com/campcurse/.github/blob/main/profile/CampCurseBackground.png" alt="campcursebanner" />
+
 <!--
 
 **Here are some ideas to get you started:**
